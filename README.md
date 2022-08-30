@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miga-Yag
 - 👀 I’m interested in Apps & Websites
-- 🌱 I’m currently learning C# and JS
+- 🌱 I’m currently learning Java
 - 📫 You can reach me on my IG
 
 <!---
